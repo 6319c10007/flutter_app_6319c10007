@@ -15,7 +15,7 @@ class _LoginUIState extends State<LoginUI> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.grey,
+      backgroundColor: Color.fromARGB(232, 228, 225, 225),
       body: Center(
         child: Column(
           mainAxisAlignment:MainAxisAlignment.center,
